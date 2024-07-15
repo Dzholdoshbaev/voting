@@ -59,7 +59,7 @@ public abstract class BasicServer {
         registerGet("/", exchange -> sendFile(exchange, makeFilePath("data/html/main.html"), ContentType.TEXT_HTML));
         registerFileHandler(".css", ContentType.TEXT_CSS);
         registerFileHandler(".html", ContentType.TEXT_HTML);
-        registerFileHandler(".jpg", ContentType.IMAGE_JPEG);
+        registerFileHandler(".jpeg", ContentType.IMAGE_JPEG);
         registerFileHandler(".png", ContentType.IMAGE_PNG);
     }
 

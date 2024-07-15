@@ -3,15 +3,15 @@
     "candidate_id": "1",
     "name": "Markus Sillman",
     "photo": "../images/1.jpeg",
-    "totalVotes": 2,
-    "percent": 16
+    "totalVotes": 0,
+    "percent": 0
   },
   {
     "candidate_id": "2",
     "name": "Nikita Culler",
     "photo": "../images/2.jpeg",
-    "totalVotes": 1,
-    "percent": 8
+    "totalVotes": 0,
+    "percent": 0
   },
   {
     "candidate_id": "3",
@@ -24,21 +24,21 @@
     "candidate_id": "4",
     "name": "Brunilda Mikels",
     "photo": "../images/4.jpeg",
-    "totalVotes": 2,
-    "percent": 16
+    "totalVotes": 0,
+    "percent": 0
   },
   {
     "candidate_id": "5",
     "name": "Hubert Takahashi",
     "photo": "../images/5.jpeg",
-    "totalVotes": 6,
-    "percent": 50
+    "totalVotes": 0,
+    "percent": 0
   },
   {
     "candidate_id": "6",
     "name": "Hershel Caffrey",
     "photo": "../images/6.jpeg",
-    "totalVotes": 1,
-    "percent": 8
+    "totalVotes": 0,
+    "percent": 0
   }
 ]
